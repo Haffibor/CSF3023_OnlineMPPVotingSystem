@@ -28,5 +28,3 @@ docs/
 ## Project Management
 - **Tasks:** see tab [Issues](../../issues)
 - **Progress:** see tab [Projects](../../projects)
-
-| Presentation  | 3 – 7 January 2027 |  |
