@@ -7,12 +7,12 @@
 
 ## Team Member
 
-| Name | No. matrik  | GitHub |
-|------|-----------|--------|
-| Nur Farah Auni binti Ahmad Khalil | S88580 | @farahaunikhalil |
-| Nurhafizah binti Mahmuda | S85571 | @Haffibor |
-| Irdiena Ariesha Binti Azmi | S87227 | @ |
-| Siti Nurfatimah Binti Norhisham | S85207 | @ |
+| Name | No. matrik | Role | GitHub |
+|------|-----------|--------|--------|
+| Nur Farah Auni binti Ahmad Khalil | S88580 | Flowcharts | @farahaunikhalil |
+| Nurhafizah binti Mahmuda | S85571 | Introduction and Requirements | @Haffibor |
+| Irdiena Ariesha Binti Azmi | S87227 | Formatting and Compilation | @irdiena1372 |
+| Siti Nurfatimah Binti Norhisham | S85207 | Pseudocode | @fatimahs85207 |
 
 ## Repository Structure
 
