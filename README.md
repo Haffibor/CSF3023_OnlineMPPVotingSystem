@@ -1,4 +1,5 @@
-# CSF3023_OnlineMPPVotingSystem
+# Online MPP Voting System
+The Online MPP Voting System is a group assignment that models how a web-based student election could work. The Majlis Perwakilan Pelajar (MPP) is normally elected with paper ballots, which are slow to count, costly to run and hard to audit. This project shows how the process can be moved online so that voting is faster, fairer and more accessible.
 
 ## Course Information
 - **Course  :** CSF3023 System Thinking and Logic
